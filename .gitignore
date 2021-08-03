@@ -1,0 +1,6 @@
+node_modules
+dist
+docs
+
+# Temporary fix, TODO: exclude from tsc/webpack
+lib/setupTests.d.ts
